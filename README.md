@@ -10,4 +10,5 @@ Jesse Wolgamott](http://jessewolgamott.com) for the awesome people of the world.
 
 LICENSE
 -------
-Except otherwise noted, this checklist is © 2013 Jesse Wolgamott, under a Creative Commons Attribution-ShareAlike license: <a href="Except otherwise noted, this report is © 2009 Greg Grossmeier, under a Creative Commons Attribution-ShareAlike license: http://creativecommons.org/licenses/by-sa/3.0/.">http://creativecommons.org/licenses/by-sa/3.0/</a>
+Except otherwise noted, this checklist is © 2013 Jesse Wolgamott, under a Creative Commons Attribution-ShareAlike license: 
+http://creativecommons.org/licenses/by-sa/3.0/
