@@ -24,7 +24,7 @@
 <a id="3.0"></a>
 ## Getting to Rails 3.0
 - [ ] git checkout -b oh-noes-here-we-goes
-- [ ] Use the Rails 3.0 upgrade tool to overwrite your current application
+- [ ] Use the [Rails 3.0 upgrade tool](https://github.com/rails/rails_upgrade) [RailsCast](http://railscasts.com/episodes/225-upgrading-to-rails-3-part-1) to overwrite your current application
 - [ ] Get your Gemfile in order, attempting to load rails console as you go
 - [ ] Update your ActiveRecord queries to the new syntax
 - [ ] Loading rails console is a huge deal: Have a {chocolate,whiskey,beers}
