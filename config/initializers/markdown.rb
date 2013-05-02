@@ -9,8 +9,7 @@ module MarkdownHandler
     <<-SOURCE
 
     pipeline = HTML::Pipeline.new [
-      HTML::Pipeline::MarkdownFilter,
-      HTML::Pipeline::SyntaxHighlightFilter
+      HTML::Pipeline::MarkdownFilter
     ]
 
     result = pipeline.call(begin;#{source};end)

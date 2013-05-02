@@ -6,7 +6,6 @@ gem 'rails', '4.0.0.beta1'
 gem 'pg'
 gem 'puma'
 gem "html-pipeline"
-gem 'github-linguist'
 
 group :assets do
   gem 'sass-rails',   '~> 4.0.0.beta1'
