@@ -64,13 +64,14 @@
 
 ### Let's talk about your database bro:
 - [ ] If you're on MySql, let's change to Postgresql, locally too
-- [ ] What about if you're TOTES into prototype: use it with this deprecated helper
-- [ ] What about if you used the hell out of observers: use it with this deprecated helper
+- [ ] What about if you're TOTES into prototype: keep prototyping for now with [prototype-rails](https://github.com/rails/prototype-rails) and jQuery.noconflict
+- [ ] What about if you used the hell out of observers: use it with
+  [rails-observers](https://github.com/rails/rails-observers)
 
 ### Let's talk about deprecated gems: 
 - [] You have 1 major version before they'll stop working and nobody will care.
 - [ ] What about if you're using a gem with no upgrade path: Remove or Replace the feature
-j
+
 ### Let's talk about how to prevent this from happening in the future:
 - [ ] ABU -- always be upgrading. Use it like this: Hey, what are you doing this monday: Upgrading dude. Always be upgrading.
 - [ ] Don't get more than a release behind --- Rails moves quickly and you can be obsolete (no help, no security updates) very quickly.
