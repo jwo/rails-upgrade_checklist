@@ -61,15 +61,15 @@
 - [ ] Run your app -- if it runs with turblolinks: you are one of the chosen few. If not:
 - [ ] add turbo-links-jquery to your Gemfile and try again. If not:
 - [ ] remove turbolinks for this application. (keep calm and disable turbo links)
-
-### Let's talk about your database bro:
-- [ ] If you're on MySql, let's change to Postgresql, locally too
 - [ ] What about if you're TOTES into prototype: keep prototyping for now with [prototype-rails](https://github.com/rails/prototype-rails) and jQuery.noconflict
 - [ ] What about if you used the hell out of observers: use it with
   [rails-observers](https://github.com/rails/rails-observers)
 
+### Let's talk about your database bro:
+- [ ] If you're on MySql, let's change to Postgresql, locally too
+
 ### Let's talk about deprecated gems: 
-- [] You have 1 major version before they'll stop working and nobody will care.
+- [ ] You have 1 major version before they'll stop working and nobody will care.
 - [ ] What about if you're using a gem with no upgrade path: Remove or Replace the feature
 
 ### Let's talk about how to prevent this from happening in the future:
@@ -82,5 +82,5 @@
 
 ## YAY -- What should you do with this list?
 
-- Copy the source code into a GitHub README
+- Copy the source code into a [GitHub Issue](http://git.io/gP9AfQ)
 - Print it out
