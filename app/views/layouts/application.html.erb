@@ -11,7 +11,21 @@
   <% cache do %>
     <div class="container">
       <section>
+
+        <h1>Rails Upgrade Checklist</h1>
+
+        <div class="well">
+          <h5>Stuck on Rails 2.3 (or earlier) and not sure what to do?</h5>
+          <p>This step by step guideline is your friend. Each step is doable, so you can make this happen!</p>
+          <p>Q: Wait now, What is this?</p>
+          <p>A: A list, nay, a Framework for upgrading Rails Apps to version 4.0</p>
+        </div>
         <%= yield %>
+
+        <div id="rubyoffrails">
+          <h2>Ruby off Rails</h2>
+          <p>For more awesomeness, check out @jwo's course <a href="https://rubyoffrails.com">Ruby Off Rails</a></p>
+        </div>
       </section>
 
       <footer>
