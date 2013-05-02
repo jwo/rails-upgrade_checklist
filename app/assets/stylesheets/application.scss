@@ -1,0 +1,59 @@
+@import 'bootstrap';
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,800);
+
+body {
+  background: #c0392b;
+  font-family: 'Open Sans', Arial, serif;
+  font-weight: 300;
+}
+
+section, footer{
+  background: #ecf0f1;
+  padding: 3em;
+}
+
+section{
+  margin: 2em 2em 0 2em;
+  border: 1px solid #999999;
+  border-bottom: 0;
+}
+footer {
+  margin: 0 2em 2em 2em;
+  border-bottom: 1px solid #999999;
+}
+h1 {
+  font-family: 'Open Sans', Arial, serif;
+  font-weight: 800;
+  font-size: 4rem;
+  text-align: center;
+  padding: 0 0 3rem 0;
+}
+
+h2 {
+  margin-top: 2rem;
+  border-bottom: 1px solid #7f8c8d;
+}
+
+li, code {
+  font-size: 1.25rem;
+  line-height: 3rem;
+}
+#mc_embed_signup {
+  border: 1px dotted #dddddd; 
+  clear:left; 
+}
+.attribution {
+  h2 {
+    font-weight: bold;
+    padding: 0;
+    margin: 15px 0;
+    font-size: 1.4em;
+  }
+  border: 1px dotted #dddddd; 
+  padding: 10px 0 10px 3%;
+}
+
+ul {
+  list-style: none;
+  margin-left: 0;
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Rails Upgrade Checklist</title>
+  <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+  <% cache do %>
+    <div class="container">
+      <section>
+        <%= yield %>
+      </section>
+
+      <footer>
+        <%= render partial: 'layouts/footer' %>
+      </footer>
+    </div>
+  <% end %>
+
+</body>
+</html>
