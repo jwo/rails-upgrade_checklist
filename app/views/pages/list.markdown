@@ -65,7 +65,7 @@
 - [ ] What about if you used the hell out of observers: use it with
   [rails-observers](https://github.com/rails/rails-observers)
 
-### Let's talk about your database bro:
+### Let's talk about your database:
 - [ ] If you're on MySql, let's change to Postgresql, locally too
 
 ### Let's talk about deprecated gems: 
