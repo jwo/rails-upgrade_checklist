@@ -44,7 +44,7 @@
 - [ ] Go through your stylesheets and look for urls(); if local, replace with
   image-url() (Sass)
 - [ ] Remove any layouts that individually call stylesheets and javascripts
-- [ ] See if your pages start to break open and swallow you hole
+- [ ] See if your pages start to break open and swallow you whole
 - [ ] Remove jQuery
 - [ ] move your JavaScript libs (underscore, etc) to vendor/assets
 - [ ] build your application.scss and application.js --- don't put code in these files, just require other files (or load the entire tree)
