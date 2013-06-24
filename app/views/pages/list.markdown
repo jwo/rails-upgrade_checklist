@@ -49,6 +49,7 @@
 - [ ] move your JavaScript libs (underscore, etc) to vendor/assets
 - [ ] build your application.scss and application.js --- don't put code in these files, just require other files (or load the entire tree)
 - [ ] find the problems when you're loading every CSS and JS on every page --- it's very common and you might need to change your application to be nicer
+- [ ] Use [RailsDiff](http://railsdiff.org/) to identify additional required configuration changes
 - [ ] commit and push to heroku. do a little dance if it loads. ask for feedback
 
 <a id="4.0"></a>
@@ -64,11 +65,12 @@
 - [ ] What about if you're TOTES into prototype: keep prototyping for now with [prototype-rails](https://github.com/rails/prototype-rails) and jQuery.noconflict
 - [ ] What about if you used the hell out of observers: use it with
   [rails-observers](https://github.com/rails/rails-observers)
+- [ ] Use [RailsDiff](http://railsdiff.org/) to identify additional required configuration changes
 
 ### Let's talk about your database:
 - [ ] If you're on MySql, let's change to Postgresql, locally too
 
-### Let's talk about deprecated gems: 
+### Let's talk about deprecated gems:
 - [ ] You have 1 major version before they'll stop working and nobody will care.
 - [ ] What about if you're using a gem with no upgrade path: Remove or Replace the feature
 
@@ -78,7 +80,7 @@
 
 ### Does this process suck?
 - YES: OMG SUCKS
-- BUT: Rails 4.0 is a flipping dream. If you go back to Rails 2.3 you will hate life. Rails 3.0: less hate, but melancholy. Rails 3.1: you're ok, and glad you skipping the whole `attr_accessible` things.
+- BUT: Rails 4.0 is a flipping dream. If you go back to Rails 2.3 you will hate life. Rails 3.0: less hate, but melancholy. Rails 3.1: you're ok, and glad you're skipping the whole `attr_accessible` things.
 
 ## YAY -- What should you do with this list?
 
