@@ -54,10 +54,14 @@
 
 <a id="4.0"></a>
 ## Getting to 4.0
-- [ ] upgrade to your Gemfile to rails 4.0.0.rc1
+- [ ] upgrade to your Gemfile to rails 4.0.0
 - [ ] Add turbolinks to your Gemfile and to your application.js (//= require
   turbolinks)
 - [ ] Add strong-parameters to your Gemfile -- go through your applications and implement -- [Railscast Pro](http://railscasts.com/episodes/371-strong-parameters)
+- [ ] If you came from Rails 3.2, use
+  [protected-attributes](https://github.com/rails/protected_attributes). This
+  will help with `attr_accessible` changes. Over time, switch to
+  `strong_parameters`
 - [ ] View this talk on caching and see about doing these things
 - [ ] Run your app -- if it runs with turblolinks: you are one of the chosen few. If not:
 - [ ] add turbo-links-jquery to your Gemfile and try again. If not:
