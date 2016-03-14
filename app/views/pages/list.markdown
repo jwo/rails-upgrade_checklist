@@ -67,7 +67,6 @@ but you may just want to use [RailsDiff](http://railsdiff.org/) if you're alread
   [protected-attributes](https://github.com/rails/protected_attributes). This
   will help with `attr_accessible` changes. Over time, switch to
   `strong_parameters`
-- [ ] View this talk on caching and see about doing these things
 - [ ] Run your app -- if it runs with turblolinks: you are one of the chosen few. If not:
 - [ ] add turbo-links-jquery to your Gemfile and try again. If not:
 - [ ] remove turbolinks for this application. (keep calm and disable turbo links)
