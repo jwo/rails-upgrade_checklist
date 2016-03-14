@@ -70,6 +70,7 @@
 - [ ] What about if you used the hell out of observers: use it with
   [rails-observers](https://github.com/rails/rails-observers)
 - [ ] Use [RailsDiff](http://railsdiff.org/) to identify additional required configuration changes
+- [ ] Remove Asset Group in Gemfile, as [support was dropped](https://github.com/rails/rails/commit/49c4af43ec5819d8f5c1a91f9b84296c927ce6e7). THX [Sam Ruby](https://github.com/rubys)
 
 ### Let's talk about your database:
 - [ ] If you're on MySql, let's change to Postgresql, locally too
