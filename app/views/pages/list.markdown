@@ -1,3 +1,8 @@
+### 2016 Disclaimer
+
+I need to work on versions 4.1, 4.2, and getting to 5.0. [Pull-Requests accepted](https://github.com/jwo/rails-upgrade_checklist),
+but you may just want to use [RailsDiff](http://railsdiff.org/) if you're already on 4.0.
+
 
 ### What version of Rails are you on?
 <ul class="nav nav-pills">
